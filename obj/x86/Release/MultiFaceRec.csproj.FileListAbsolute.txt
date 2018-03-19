@@ -1,0 +1,17 @@
+C:\Users\adrian\Desktop\FaceRecProOV\bin\Release\MultiFaceRec.exe
+C:\Users\adrian\Desktop\FaceRecProOV\bin\Release\MultiFaceRec.pdb
+C:\Users\adrian\Desktop\FaceRecProOV\bin\Release\Emgu.CV.dll
+C:\Users\adrian\Desktop\FaceRecProOV\bin\Release\Emgu.CV.UI.dll
+C:\Users\adrian\Desktop\FaceRecProOV\bin\Release\Emgu.Util.dll
+C:\Users\adrian\Desktop\FaceRecProOV\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\adrian\Desktop\FaceRecProOV\bin\Release\office.dll
+C:\Users\adrian\Desktop\FaceRecProOV\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\adrian\Desktop\FaceRecProOV\bin\Release\stdole.dll
+C:\Users\adrian\Desktop\FaceRecProOV\obj\x86\Release\MultiFaceRec.csprojResolveAssemblyReference.cache
+C:\Users\adrian\Desktop\FaceRecProOV\obj\x86\Release\MultiFaceRec.FrmPrincipal.resources
+C:\Users\adrian\Desktop\FaceRecProOV\obj\x86\Release\MultiFaceRec.Properties.Resources.resources
+C:\Users\adrian\Desktop\FaceRecProOV\obj\x86\Release\MultiFaceRec.csproj.GenerateResource.Cache
+C:\Users\adrian\Desktop\FaceRecProOV\obj\x86\Release\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\adrian\Desktop\FaceRecProOV\obj\x86\Release\MultiFaceRec.exe
+C:\Users\adrian\Desktop\FaceRecProOV\obj\x86\Release\MultiFaceRec.pdb
+C:\Users\adrian\Desktop\FaceRecProOV\bin\Release\Microsoft.AnalysisServices.AdomdClient.dll

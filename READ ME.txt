@@ -1,0 +1,7 @@
+Open the folder
+go to bin
+then open the debug folder
+then run the multifacerec.exe
+
+Requires microsoft.net 3.0 
+ 
